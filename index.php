@@ -1063,7 +1063,7 @@ body{background:#141414}.logo-container{background:#1e1e1e;background:linear-gra
                 <h2 style="text-align: center;"><strong>Informasi Situs Judi Slot Online Terbaik BALI SLOT</strong></h2>
                 <p style="text-align: justify;"><strong>Situs judi slot online</strong> BaliSlot kali ini memiliki informasi yang akan memberikan Anda peluang tinggi buat meraih keuntungan kepada diri Anda. Saat ini, <a href="http://static-origin.courier-journal.com/"><strong>BALI SLOT</strong></a> menyediakan kualitas layanan yang terjamin aman dan terjaga. Setiap para pemain juga akan disupport customer service yang online 24jam setiap harinya.</p>
                 
-                <table class=" alignjustify" style="height: 112px;" width="1279">
+                <table class=" alignjustify" style="height: 112px;" max-width="1279px">
                 <tbody>
                 <tr>
                 <td width="312">Permainan Slot Gacor</td>
